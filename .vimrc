@@ -5,19 +5,19 @@ call plug#begin('~/.vim/plugged')
 " ---------------------------------------------------------------------------------------
 
 " Using a tagged release; wildcard allowed (requires git 1.9.2 or above)
-Plug 'fatih/vim-go', { 'tag': '*' }
+" Plug 'fatih/vim-go', { 'tag': '*' }
 
 "
-Plug 'ludovicchabant/vim-gutentags'
+" Plug 'ludovicchabant/vim-gutentags'
 
 "
-Plug 'Valloric/YouCompleteMe'
+" Plug 'Valloric/YouCompleteMe'
 
 "
 Plug 'vim-scripts/a.vim'
 
 "
-Plug 'Yggdroot/LeaderF'
+" Plug 'Yggdroot/LeaderF'
 
 " Initialize plugin system
 call plug#end()

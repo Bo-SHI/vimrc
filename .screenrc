@@ -1,0 +1,14 @@
+#
+## ~/.screenrc
+#
+
+# 启动时不加载欢迎信息
+startup_message off
+
+# 屏幕缓冲区 1024
+defscrollback 1024
+
+# 在最下一行显示列表和时钟
+hardstatus on
+hardstatus alwayslastline
+hardstatus string "%{.bW}%-w%{.rY}%n %t%{-}%+w %=%{..G} %H(%l) %{..Y} %Y/%m/%d %c:%s "
