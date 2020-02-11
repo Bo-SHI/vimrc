@@ -1,4 +1,7 @@
-# vimrc
-the vimrc config
+### centos 常用定制配置文件
 
-the gun screen config
+> .vimrc -- vim的配置文件  
+> ln -s ./vimrc ~/.vimrc
+
+> .screenrc -- screen的配置文件  
+> ln -s ./screenrc ~/.screenrc
