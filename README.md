@@ -5,3 +5,5 @@
 
 > .screenrc -- screen的配置文件  
 > ln -s ./screenrc ~/.screenrc
+
+for test
